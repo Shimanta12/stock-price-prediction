@@ -1,0 +1,5 @@
+venv/
+.env/
+
+stock_prediction_plot.png
+prediction_results.csv
